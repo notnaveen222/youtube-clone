@@ -1,0 +1,23 @@
+.filter{
+    height: 70px;
+
+    
+}
+.filter button {
+    font-family: Roboto, Arial;
+    color: white;
+    background-color: #272727;
+    padding: 7px 12px 7px 12px;
+    border : none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-right: 5px;
+    transition: background-color 0.15s;
+    cursor: pointer;
+
+}
+.filter button:hover{
+    background-color: #3f3f3f;
+}

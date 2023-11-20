@@ -1,0 +1,143 @@
+.sidebar{
+
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 55px;
+    width: 225px;
+    padding-left: 10px;
+    scrollbar-color: red green;
+}
+.sect1{
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    border: white;
+    padding-bottom: 5px;
+    border-bottom-style: solid ;
+    border-bottom-color: #272727 ;
+    border-bottom-width: 1px;
+}
+.sect1 button{
+    font-family: Robot,Arial;
+    border: none;
+    background-color: #0f0f0f;
+
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.sect1 button:hover{
+    background-color: #272727;
+}
+.sect1 button img{
+    filter: invert(1);
+    width: 25px;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+.sect2{
+    display: flex;
+    flex-direction: column;
+    border-bottom-style: solid ;
+    border-bottom-color: #272727 ;
+    border-bottom-width: 1px;
+
+}
+.you{
+    font-size: 15px;
+    font-weight: 600;
+}
+.you-button{
+    filter: invert(1);
+    height: 18px;
+}
+.sect2 button{
+    font-family: Robot,Arial;
+    border: none;
+    background-color: #0f0f0f;
+
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+.sect2 button:hover{
+    background-color: #272727;
+}
+.sect2 button img{
+    filter: invert(1);
+    width: 25px;
+    margin-right:   20px;
+    
+}
+.sect3{
+    display: flex;
+    flex-direction: column;
+    border-bottom-style: solid ;
+    border-bottom-color: #272727 ;
+    border-bottom-width: 1px;
+
+}
+.sect3 button{
+    font-family: Robot,Arial;
+    border: none;
+    background-color: #0f0f0f;
+
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+
+}   
+.sect3 button:hover{
+    background-color: #272727;
+}
+.sect3 button img{
+    border-radius: 50%;
+    width: 25px;
+    margin-right:   20px;
+    
+}
+.sect4{
+    display: flex;
+    flex-direction: column;
+    border-bottom-style: solid ;
+    border-bottom-color: #272727 ;
+    border-bottom-width: 1px;
+
+}
+.sect4 button{
+    font-family: Robot,Arial;
+    border: none;
+    background-color: #0f0f0f;
+
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+.sect4 button:hover{
+    background-color: #272727;
+}
+.sect4   button img{
+    filter: invert(1);
+    width: 25px;
+    margin-right:   20px;
+    
+}
